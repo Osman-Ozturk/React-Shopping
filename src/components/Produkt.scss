@@ -1,0 +1,33 @@
+.Produkt {
+  width: 220px;
+  margin: 10px;
+  border: 1px solid rebeccapurple;
+  border-radius: 20px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px,
+    rebeccapurple 0px 8px 16px -8px;
+  transform: scale(1);
+  img {
+    padding: 10px;
+    width: 90%;
+    height: 200px;
+    border-radius: 20px;
+  }
+  h3 {
+    padding: 0;
+  }
+  .button {
+    margin: 8px;
+    button {
+      border-radius: 10px;
+      background-color: rgb(177, 144, 211);
+      cursor: pointer;
+    }
+    button:hover{
+      transform: scale(1.1);
+      background-color: rgb(40, 141, 107);
+    }
+  }
+}
+.Produkt:hover {
+  transform: scale(1.1);
+}

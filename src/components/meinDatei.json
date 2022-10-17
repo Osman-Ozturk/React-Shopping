@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Apple iPad Mini - 4. Generation 32GB",
+    "price": 500.01,
+    "inventory": 2,
+    "src": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/rfb-ipad-mini4-silver-wifi-2015?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1582329213838"
+  },
+  {
+    "id": 2,
+    "title": "LG x Screen K500N White 16GB",
+    "price": 140.99,
+    "inventory": 10,
+    "src": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRmRocDG1cIXCHAmWtxEtpVvccfKorTC-5rTC41VaMC-v1kuWUD0K9biCXDirRGW7TxMSJ9PABsAH-Vvb9Yc61QytrYhpiWGPQXtmKuTq1MSXzkexRGpxU6"
+  },
+  {
+    "id": 3,
+    "title": "Huawei P30 Lite Premium 128 GB",
+    "price": 190.99,
+    "inventory": 15,
+    "src": "https://www.backmarket.de/cdn-cgi/image/format=auto,quality=75,width=640/https://d1eh9yux7w8iql.cloudfront.net/product_images/None_a9929e80-1bb8-40ed-892e-37003c4e0e28.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Samsung Galaxy A03 - 64GB",
+    "price": 140.99,
+    "inventory": 15,
+    "src": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRoeF4K-QhIVsSptqF26Cdh2rNpulUUCRgv_2m4EinQIuLEzkMULj1A0JxjnkFyKkZID9lkhNVlGBetTkqqIGStU8RKnzFQodL57zuQ61OYQFnbsuEYnLNn"
+  },
+  {
+    "id": 5,
+    "title": "Samsung Galaxy Z Flip 3,5G 128GB",
+    "price": 540.99,
+    "inventory": 5,
+    "src": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRDi78dvt3KgxaPMylNWLNCt86AYHIQs8CEDndBGEkMehB8HPLUwH8YYCqEuFIyHTma6VZ58Ec4lHisWJvSqAdUSDsZEpF8nnN95-b-ablm"
+  }
+]

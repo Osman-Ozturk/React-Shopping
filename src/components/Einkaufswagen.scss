@@ -1,0 +1,55 @@
+.Einkaufs{
+  border-top: 2px inset rgb(39, 52, 19);
+}
+.einkaufswagen {
+  
+  display: flex;
+  justify-content: center;
+  .wagen{
+    width: 220px;
+    margin: 10px;
+    border: 1px solid rebeccapurple;
+    border-radius: 20px;
+    box-shadow: rgba(118, 192, 39, 0.25) 0px 13px 27px -5px,
+      rgb(128, 234, 28) 0px 8px 16px -8px;
+    transform: scale(1);
+    img {
+      padding: 10px;
+      width: 90%;
+      height: 200px;
+      border-radius: 20px;
+    }
+
+    .buttons {
+      margin: 8px;
+      button {
+        margin: 5px;
+        border-radius: 10px;
+        background-color: rgb(177, 144, 211);
+        cursor: pointer;
+      }
+      button:hover{
+        transform: scale(1.1);
+        background-color: rgb(40, 141, 107);
+      }
+    }
+  }}
+
+  .total {
+    margin: 10px;
+    font-size: xx-large;
+    font-style: italic;
+  }
+  .checkOut {
+    button {
+      padding: 10px;
+      background-color: rgb(151, 124, 178);
+      border-radius: 10px;
+      cursor: pointer;
+    }
+    button:hover{
+      transform: scale(1.1);
+      background-color: rgb(40, 141, 107);
+    }
+  }
+
